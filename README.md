@@ -28,7 +28,7 @@ rt_info  a股清单列表
            zh    1991-20190330
            us,hk,zh 不含5分钟
 
-nimrob@gmail.com
+
 
  
 
